@@ -51,11 +51,3 @@ Escreva um programa contendo uma `Collection Stack` (Pilha) de objetos do tipo `
   <br/>
   <img src="https://github.com/user-attachments/assets/4632417f-ebc8-4ca3-be1e-7b5e5c0b61bf" width="500"/>
 </div>
-
----
-
-## ▶️ Como Executar
-
-### Pré-requisitos:
-- Node.js
-- npm
