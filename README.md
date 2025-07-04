@@ -59,9 +59,3 @@ Escreva um programa contendo uma `Collection Stack` (Pilha) de objetos do tipo `
 ### Pré-requisitos:
 - Node.js
 - npm
-
-### Passos:
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/estrutura-dados.git
-   cd estrutura-dados
