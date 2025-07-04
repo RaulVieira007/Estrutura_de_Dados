@@ -6,7 +6,7 @@ Exercícios de estrutura de dados com foco em **Queue (Fila)** e **Stack (Pilha)
   <img src="https://github.com/user-attachments/assets/30c0b4a9-b6d9-4704-9be1-10ae4003adba" width="500"/>
 </div>
 ---
-## 📘 Atividade 01 – Fila de Clientes (Queue)
+📘 Atividade 01 – Fila de Clientes (Queue)
 
 Escreva um programa contendo uma `Collection Queue` (Fila) de objetos do tipo `string`, para organizar uma fila por ordem de chegada dos clientes de um banco.
 
@@ -23,7 +23,7 @@ Escreva um programa contendo uma `Collection Queue` (Fila) de objetos do tipo `s
 
 ---
 
-## 📘 Atividade 02 – Pilha de Livros (Stack)
+📘 Atividade 02 – Pilha de Livros (Stack)
 
 Escreva um programa contendo uma `Collection Stack` (Pilha) de objetos do tipo `string`, para organizar a retirada de livros de uma pilha.
 
